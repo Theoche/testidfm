@@ -1,0 +1,2 @@
+2020/02/19 16:38:08 [error] 13676#9428: *1 CreateFile() "C:\Users\theo.cherel-ext\nginx-1.17.8\nginx-1.17.8/html/favicon.ico" failed (2: Le fichier spécifié est introuvable), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2020/02/19 16:38:46 [error] 13676#9428: *3 CreateFile() "C:\Users\theo.cherel-ext\nginx-1.17.8\nginx-1.17.8/html/favicon.ico" failed (2: Le fichier spécifié est introuvable), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
